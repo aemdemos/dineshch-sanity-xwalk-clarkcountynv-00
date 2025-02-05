@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--catalan-sanity-xwalk-clarkcountynv-00--aemdemos.hlx.live/
-- After: https://<branch>--catalan-sanity-xwalk-clarkcountynv-00--aemdemos.hlx.live/
+- Before: https://main--dineshch-sanity-xwalk-clarkcountynv-00--aemdemos.aem.live/
+- After: https://main--dineshch-sanity-xwalk-clarkcountynv-00--aemdemos.aem.live/
